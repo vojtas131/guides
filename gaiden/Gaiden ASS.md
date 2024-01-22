@@ -66,9 +66,8 @@
     - Taxi to East Bunzaemon
     - Cats
     - Taxi to Ashibata park black gang substory, save the pro wrestler
-    - Taxi to Iwao bridge if you didn't collect the girl
-    - Save the pro wrestler
-    - After (or before) the fight you with wrestler pick up request from the guy on the bench on the footpath (Solve the mystery note - it's request to find a golden ball)
+    - Taxi to Iwao bridge girl and save the pro wrestler
+    - After (or before) the fight with wrestler pick up request from the guy on the bench on the footpath (Solve the mystery note - it's request to find a golden ball)
     - Taxi to bishamon bridge
     - Substories on the way to S Shofukucho
     - !Pick up golden ball opposite to golden ball you talk to hostess substory here!
