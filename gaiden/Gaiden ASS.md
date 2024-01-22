@@ -1,39 +1,42 @@
 # Gaiden All Substories notes (differences from any%)
 ### Chapter 2
 - After talking to homeless guy (going to parking lot), go to pool and do one hit easy & first shot of normal diff, buy golden ball for 777 points
-- Golden ball if boat appears
-- After club visit pick every single request you have available
-- Pick the extra platinum plate on sotenbori st.
-- Normal any% until locker keys, pick locker keys and go to parking lot, then hornet tutorial, then footpath fight
-- after cigarete go to east bunzaemon outdoor mall, fight -> ebisu pawn (buy golden ball)
+- Golden ball if boat appears after the fight at the footwalk (pay attention to the boat golden ball for the rest of your run if you don't get it here)
+- After club visit pick every single request you have available and progress any% as normal
+- Pick the extra platinum plate locker key on sotenbori st. (can pickup the tauriner maximum as well)
+- Normal any% until locker keys, pick locker keys, equip binding, level up and go to parking lot (use cone?), then footpath fight (use ex heat), then hornet
+- after cigarete taxi to East Bunzaemon fight red guys -> ebisu pawn (buy golden ball)
 - red fight before going to akame
 - go to akame
-- after going back fight the leader? before the apartment setpiece
+- after going back fight the leader before the apartment setpiece
+
+> Note: We don't really need that many of the max heat items for the finale as we gonna pick eternal life option from the golden ball substory, which essentially gives you like 25 tauriner maxes (100x Nourishments). So either use them somewhere else when you run out of heat, or just don't pick them up at all
 
 ### Chapter 3
-> (Save 21)
 - Pick everything
-- Level up points earn 1 time ? and shop maybe but it's like save on menu
-- Substories: 
-    - Liberate the hammer man (after saying you pay the 1 mil level up yakuza Ultimate essense)
+- Level up points earn 1 time and shop once (saves menuing doesn't matter that much)
+- Substories:
+    - Taxi to Bishamon bridge (you need to have 1 mil if you don't start with convinience clerk or defeat the samurai) 
+    - Liberate the hammer man (after saying you pay the 1 mil level up the stuff we normally do in the any% run + maybe more dmg)
     - Strongest convinience clerk
     - Start A simple heavy lifting job
-    - Homeless Yomaka?
+    - Homeless Yomaka
     - somewhere in between golden samurai
     - Final Showdown: Red Peacocks
-- Go to akame, binding, pick every new substory
+- Go to akame, binding event, pick every new substory
 - Substories:
     - Cat loving rapper start
-    - E sotenbori footpath, cat lover progress fight, start white gang
+    - walk to E sotenbori footpath, cat lover progress fight, start white gang
     - taxi to Shofukucho
     - Hostess start
     - Smile Burger substories (Needing advice, Film assistent needed)
-    - Taxi to iwao bridge, needs advice progress, wrestler start
+    - After smile burger go right and do another white gang fight
+    - Taxi to iwao bridge (or just walk?), needs advice progress, wrestler start
     - Taxi to W Sotenbori, start hostess
     - Taxi to E Sotenbori St.
     - Fake ryuji start, talk to person for wrestler
     - Taxi to Shofukucho, all the things behind you go as far as W shofukucho
-    - Progress the gorilla thing last
+    - Progress the substory with kaito last
     - Go behind you, cat loving rapper, wrestler, end on S shofukucho ryuji thing
     - Taxi to E. Sotenbori
     - Finish White gang and progress wrestler
@@ -41,7 +44,6 @@
     - Note: You should fight golden samurai again at some point, plenty of opportunities and there is no way to throw him into the river this time
 
 ### Chapter 4
-> (Save 1?)
 - At some point talk to akame and have a bond drink
 - Pick the Finish the white gang leader substory
 - Progress Any% as normal until the end of Castle crashers fight
@@ -51,27 +53,29 @@
     - On the way to golf centre all the substories, after the fight progress Need advice
 
 ### Finale
-> (Save 2?)
 - Substories:
-    - Taxi to bishamon bridge
+    - Taxi to Bishamon bridge
     - Black swallows start
     - End of the destruction
     - A simple heavy lifting job
     - Needs advice
     - Wrestler
-    - Taxi to Iwao Bridge
+    - Taxi to Bishamon bridge
     - Black gang
-    - Save the pro wrestler
-    - Taxi to Iwao bridge if you didn't collect the girl
     - Save the pro wrestler
     - Taxi to East Bunzaemon
     - Cats
+    - Taxi to Ashibata park black gang substory, save the pro wrestler
+    - Taxi to Iwao bridge if you didn't collect the girl
+    - Save the pro wrestler
+    - After (or before) the fight you with wrestler pick up request from the guy on the bench on the footpath (Solve the mystery note - it's request to find a golden ball)
     - Taxi to bishamon bridge
-    - Substories on the was to S Shofukucho
+    - Substories on the way to S Shofukucho
     - !Pick up golden ball opposite to golden ball you talk to hostess substory here!
+    - Black gang, Heavy lifting job, finish black gang
     - Taxi to ashitaba park
-    - First do the black gang substory, then the one in ashibata park, then fake ryujis
-    - Taxi to SW Shofukucho, finish black gang, progress story
+    - Fake ryujis + Heavy lifting job
+    - Taxi to W Shofukucho, progress story
     - Taxi to castle, and back (almost finale time)
     - Talk to akame, get platinum tiger, progress through the bond
     - Upgrade store twice, buy the golden ball, tauriner max, staminan spark and bloody talisman, take every other substory
@@ -91,22 +95,22 @@
 - That's the clan you want, you wanna use either Keita or Chicken man as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense)
 - Silver matchups have 4 memebers (Chicken man, Keita, Yappikun, Hirashi)
 - For some of the areas it's better to use kiryu actually, I would say starting platinum 3 you want to start using the machine gun guy
-- Buy 8 scrolls (2 Keita, 2 Chicken man, 2 Higashi, 2 Yapikun), buy 2 bonding items and give them to Sujiya
-- Also make Higashi level up, you gonna need the heal (+2 scrolls)
-- Yappi-kun, koji, Sujiya are all there so most of your team doesn't die (Would give all of them one scroll as that's gonna be +10 levels)
+- Buy 8 scrolls (2 Keita, 2 Chicken man, 2 Higashi, 2 Yapikun), buy 4 bonding items and give 2 to Sujiya, 1 to Keita, 1 to chicken man
+- Yappi-kun, koji, Sujiya are all there so most of your team doesn't die (Would give all of them one scroll if you struggle later as that's gonna be +10 levels)
 - Don't level up the blue guys at all and do platinum tiger festival 1&2 last 👍
 - Lines don't really matter just make sure chicken man is somewhere at the back
-- When your whole team gets wiped out, quit and go to VIP louge to progress sponsor matchups, go to fighters louge and buy the champagne (1 mil)
-- There is also an option to fight the clown instead at some point to refresh the bad mood, but that's plat 2 strats if you fail
-- At some point when visiting the fighter louge buy 2-4 scrolls and give them to your blue guys, as there is no way you gonna get past plat 2 with level 1s
+- When your whole team gets wiped out, quit and go to VIP louge to progress sponsor matchups, go to fighters louge and buy the champagne (1 mil if you don't have bonding maxed out, otherwise the cheapest)
+- There is also an option to fight the clown instead at some point to refresh the bad mood
+- At some point when visiting the fighter louge buy 2 scrolls and give them to your blue guys you haven't used (hammer guys), as there is no way you gonna get past plat 2 with level 1s
 
 - After finishing the whole coliseum + substories, you'll have to do one akame substory, after that go back to coliseum and do the last 2 matchups as kiryu, then amon hell rumble as usual, and then amon itself
 
 ### Amon
 - At this point you should have your attack max out, and all gear slots unlocked, and leveled up your gadgets to max (as that's a substory lmao)
 - I would also recommend Essense of the Dragon God and Essense of Raging Dragon
+- Start with ex heat agent and get your drones out as that's gonna cancel his heal
 - Try to have ex heat in agent and start the juggle, the only way I managed to start it out was when dodging his meelee combo and doing two attacks
 - When in juggle try to do yakuza LLLHH DA combo
 - The other option is to go nuts with heat attacks, Dragon God, Raging Dragon, Face Stomp
 - Very important is to leave Ultimate Essense when he transitions, otherwise you are in a big trouble (Or generally any heat action as you can't use the same twice)
-- After amon equip the war god talisman instead of bloody talisman and finish the game
+- After amon finish the game
