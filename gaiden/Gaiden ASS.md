@@ -9,6 +9,7 @@
 - red fight before going to akame
 - go to akame
 - after going back fight the leader before the apartment setpiece
+- (I am honestly not 100% sure if he spawns there but I believe so) On the way to boutique go to gambling hall and talk to mr. try and hit me 
 
 > Note: We don't really need that many of the max heat items for the finale as we gonna pick eternal life option from the golden ball substory, which essentially gives you like 25 tauriner maxes (100x Nourishments). So either use them somewhere else when you run out of heat, or just don't pick them up at all
 
@@ -86,14 +87,18 @@
     - Taxi to 5 taxi
     - Finish host
 ### COLISEUM TIME :)
+- Upgrade attack to max ex, and like 1-2 levels on the extra
 - You need 5000 fans
 - 1st do all the tournament, hell rumble, and special event matches with kiryu (if you haven't unlocked try & hit me they are both present in the gambling halls)
 - there are special sponsored matches where you have to beat all tier below matches for it to unlock and speak to the specific person, the silver one is in the hall, the other two in the vip room
 - you also have to speak to them after that for the gambling matches
+- After beating every tournament and hell rumble go to the lobby to trigger the sponsour matchup (talk again after cutscene)
+- Then go to boutique and to the gambling hall, talk to the master try and hit me, and on 2nd floor scout twice (for yappikun and chicken man)
+- After that go to Fighters Lounge and buy the scrolls etc.
 ![The clan you want](image-1.png)
 - That's the clan you want, you wanna use either Keita or Chicken man as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense)
 - Silver matchups have 4 memebers (Chicken man, Keita, Yappikun, Hirashi)
-- For some of the areas it's better to use kiryu actually, I would say starting platinum 3 you want to start using the machine gun guy
+- Starting platinum 3 you want to start using the machine gun guy
 - Buy 8 scrolls (2 Keita, 2 Chicken man, 2 Higashi, 2 Yapikun), buy 4 bonding items and give 2 to Sujiya, 1 to Keita, 1 to chicken man
 - Yappi-kun, koji, Sujiya are all there so most of your team doesn't die (Would give all of them one scroll if you struggle later as that's gonna be +10 levels)
 - Don't level up the blue guys at all and do platinum tiger festival 1&2 last 👍
