@@ -96,7 +96,7 @@
 - Then go to boutique and to the gambling hall, talk to the master try and hit me, and on 2nd floor scout twice (for yappikun and chicken man)
 - After that go to Fighters Lounge and buy the scrolls etc.
 ![The clan you want](image-1.png)
-- That's the clan you want, you wanna use either Keita or Chicken man as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense)
+- That's the clan you want, you wanna use either Keita or Chicken man as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense, It's fine to generally use him but he gets scared every time they use the command and when any of your teammates dies)
 - Silver matchups have 4 memebers (Chicken man, Keita, Yappikun, Hirashi)
 - Starting platinum 3 you want to start using the machine gun guy
 - Buy 8 scrolls (2 Keita, 2 Chicken man, 2 Higashi, 2 Yapikun), buy 4 bonding items and give 2 to Sujiya, 1 to Keita, 1 to chicken man
@@ -107,14 +107,10 @@
 - There is also an option to fight the clown instead at some point to refresh the bad mood
 - At some point when visiting the fighter louge buy 2 scrolls and give them to your blue guys you haven't used (hammer guys), as there is no way you gonna get past plat 2 with level 1s
 
-- After finishing the whole coliseum + substories, you'll have to do one akame substory, after that go back to coliseum and do the last 2 matchups as kiryu, then amon hell rumble as usual, and then amon itself
+- After finishing the whole coliseum + substories, you'll have to do one akame substory, after that go back to coliseum and do the last 2 matchups as kiryu, then amon hell rumble as usual (do yourself a favor and use Keita and focus Tetsu amon, the golden one)
 
 ### Amon
 - At this point you should have your attack max out, and all gear slots unlocked, and leveled up your gadgets to max (as that's a substory lmao)
-- I would also recommend Essense of the Dragon God and Essense of Raging Dragon
-- Start with ex heat agent and get your drones out as that's gonna cancel his heal
-- Try to have ex heat in agent and start the juggle, the only way I managed to start it out was when dodging his meelee combo and doing two attacks
-- When in juggle try to do yakuza LLLHH DA combo
-- The other option is to go nuts with heat attacks, Dragon God, Raging Dragon, Face Stomp
-- Very important is to leave Ultimate Essense when he transitions, otherwise you are in a big trouble (Or generally any heat action as you can't use the same twice)
+- Have all the bloody items
+- Do [this](https://youtu.be/8IIl_eIAw5E?si=gsNXAtJGfqMZ3Txd) :)
 - After amon finish the game
