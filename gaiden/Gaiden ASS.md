@@ -9,7 +9,7 @@
 - red fight before going to akame
 - go to akame
 - after going back fight the leader before the apartment setpiece
-- (I am honestly not 100% sure if he spawns there but I believe so) On the way to boutique go to gambling hall and talk to mr. try and hit me 
+- When doing the silver matchups for the golden tiget do the extra silver hell rumble
 
 > Note: We don't really need that many of the max heat items for the finale as we gonna pick eternal life option from the golden ball substory, which essentially gives you like 25 tauriner maxes (100x Nourishments). So either use them somewhere else when you run out of heat, or just don't pick them up at all
 
@@ -26,6 +26,7 @@
     - Final Showdown: Red Peacocks
 - Go to akame, binding event, pick every new substory
 - Substories:
+    - Taxi to E Bunzaemon
     - Cat loving rapper start
     - walk to E sotenbori footpath, cat lover progress fight, start white gang
     - taxi to Shofukucho
@@ -45,16 +46,18 @@
     - Note: You should fight golden samurai again at some point, plenty of opportunities and there is no way to throw him into the river this time
 
 ### Chapter 4
-- At some point talk to akame and have a bond drink
+- Before taxiing to W Sotenbori and going to grand talk to akame and have a bond drink
 - Pick the Finish the white gang leader substory
 - Progress Any% as normal until the end of Castle crashers fight
+- After castle crashers go to gambling hall and talk to mr. try and hit me, then go to helipad, clown fight, then go to coliseum reception
 - Coliseum 2:
     - Do 3 hell rumble gold matches as kiryu
-    - Go to helipad, progress as normal
-    - On the way to golf centre all the substories, after the fight progress Need advice
+    - Go to helipad & to sotenbori
+    - On the way to golf centre do all the substories, after the fight progress Need advice
 
 ### Finale
 - Substories:
+    - When you have the quest to go back to daidoji hideout talk to akame and pick black swallows gang
     - Taxi to Bishamon bridge
     - Black swallows start
     - End of the destruction
