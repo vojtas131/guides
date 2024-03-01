@@ -81,9 +81,9 @@
     - Taxi to W Shofukucho, progress story
     - Taxi to castle, and back (almost finale time)
     - Talk to akame, get platinum tiger, progress through the bond
-    - Upgrade store 3 times, buy the golden ball and dragon god amulet, when possible buy equip level 3, take every other substory
+    - Upgrade store to max, buy the golden ball and dragon god amulet, when possible buy equip level 3, take every other substory
     - Taxi to E Sotenbori
-    - Golden ball: Ethernal life
+    - Golden ball: Eternal life
     - Taxi to Iwao Bridge, black gang, Hostt
     - Taxi to SW Shofukucho
     - Host, golden samurai
