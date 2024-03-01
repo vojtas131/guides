@@ -81,16 +81,16 @@
     - Taxi to W Shofukucho, progress story
     - Taxi to castle, and back (almost finale time)
     - Talk to akame, get platinum tiger, progress through the bond
-    - Upgrade store twice, buy the golden ball, tauriner max, staminan spark and bloody talisman, take every other substory
+    - Upgrade store 3 times, buy the golden ball and dragon god amulet, when possible buy equip level 3, take every other substory
     - Taxi to E Sotenbori
-    - Golden ball: Maybe even ethernal life kinda depends on money?
+    - Golden ball: Ethernal life
     - Taxi to Iwao Bridge, black gang, Hostt
     - Taxi to SW Shofukucho
     - Host, golden samurai
     - Taxi to 5 taxi
     - Finish host
 ### COLISEUM TIME :)
-- Upgrade attack to max ex, and like 1-2 levels on the extra
+- Upgrade attack to max ex and like 2 levels on the extra, heat to max, level 3 equip if you don't have that yet
 - You need 5000 fans
 - 1st do all the tournament, hell rumble, and special event matches with kiryu (if you haven't unlocked try & hit me they are both present in the gambling halls)
 - there are special sponsored matches where you have to beat all tier below matches for it to unlock and speak to the specific person, the silver one is in the hall, the other two in the vip room
@@ -99,10 +99,10 @@
 - Then go to boutique and to the gambling hall, talk to the master try and hit me, and on 2nd floor scout twice (for yappikun and chicken man)
 - After that go to Fighters Lounge and buy the scrolls etc.
 ![The clan you want](image-1.png)
-- That's the clan you want, you wanna use either Keita or Chicken man as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense, It's fine to generally use him but he gets scared every time they use the command and when any of your teammates dies)
-- Silver matchups have 4 memebers (Chicken man, Keita, Yappikun, Hirashi)
+- That's the clan you want, you wanna use either Keita, Chicken man or Renji as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense, It's fine to generally use him but he gets scared every time they use the command and when any of your teammates dies, I would stick to using renji as he doesn't have much health so you can try and survive yourself + he doesn't get scared)
+- Silver matchups have 4 memebers (Chicken man, Keita, Renji, Higashi)
 - Starting platinum 3 you want to start using the machine gun guy
-- Buy 8 scrolls (2 Keita, 2 Chicken man, 2 Higashi, 2 Yapikun), buy 4 bonding items and give 2 to Sujiya, 1 to Keita, 1 to chicken man
+- Buy 6 scrolls (2 Keita, 2 Chicken man, 2 Renji), buy 5 max bonding items and 3 bamboo ones (the green ones) and give 2 to Sujiya and 1max + 1 bamboo to each machine gun guy
 - Yappi-kun, koji, Sujiya are all there so most of your team doesn't die (Would give all of them one scroll if you struggle later as that's gonna be +10 levels)
 - Don't level up the blue guys at all and do platinum tiger festival 1&2 last 👍
 - Lines don't really matter just make sure chicken man is somewhere at the back
