@@ -8,7 +8,9 @@
 - after cigarete taxi to East Bunzaemon fight red guys -> ebisu pawn (buy golden ball)
 - red fight before going to akame
 - go to akame
+- When going back to helipad pickup golden ball on the right (on the casino side)
 - after going back fight the leader before the apartment setpiece
+- When warping to Fighters louge, pick up the golden ball inside the near statue
 - When doing the silver matchups for the golden tiget do the extra silver hell rumble
 
 > Note: We don't really need that many of the max heat items for the finale as we gonna pick eternal life option from the golden ball substory, which essentially gives you like 25 tauriner maxes (100x Nourishments). So either use them somewhere else when you run out of heat, or just don't pick them up at all
@@ -90,7 +92,7 @@
     - Taxi to 5 taxi
     - Finish host
 ### COLISEUM TIME :)
-- Upgrade attack to max ex and like 2 levels on the extra, heat to max, level 3 equip if you don't have that yet
+- Upgrade attack to max ex and like 1 level on the extra, heat to max, level 3 equip if you don't have that yet
 - You need 5000 fans
 - 1st do all the tournament, hell rumble, and special event matches with kiryu (if you haven't unlocked try & hit me they are both present in the gambling halls)
 - there are special sponsored matches where you have to beat all tier below matches for it to unlock and speak to the specific person, the silver one is in the hall, the other two in the vip room
@@ -98,14 +100,14 @@
 - After beating every tournament and hell rumble go to the lobby to trigger the sponsour matchup (talk again after cutscene)
 - Then go to boutique and to the gambling hall, talk to the master try and hit me, and on 2nd floor scout twice (for yappikun and chicken man)
 - After that go to Fighters Lounge and buy the scrolls etc.
+- Buy 4 scrolls (1 Keita, 1 Chicken man, 1 Renji, 1 Higashi), buy 5 max bonding items and 3 bamboo ones (the green ones) and give 2 to Sujiya and 1max + 1 bamboo to each machine gun guy (if not enough money prioritize the bonding items)
 ![The clan you want](image-1.png)
 - That's the clan you want, you wanna use either Keita, Chicken man or Renji as main to utilize boost attack with your heat action + kiryu dies on like 2-3 hits lmao (the chicken man has better attack but way lower defense, It's fine to generally use him but he gets scared every time they use the command and when any of your teammates dies, I would stick to using renji as he doesn't have much health so you can try and survive yourself + he doesn't get scared)
-- Silver matchups have 4 memebers (Chicken man, Keita, Renji, Higashi)
+- Silver matchups have 4 memebers (Chicken man, Keita, Renji, Sujiya)
 - Starting platinum 3 you want to start using the machine gun guy
-- Buy 6 scrolls (2 Keita, 2 Chicken man, 2 Renji), buy 5 max bonding items and 3 bamboo ones (the green ones) and give 2 to Sujiya and 1max + 1 bamboo to each machine gun guy
-- Yappi-kun, koji, Sujiya are all there so most of your team doesn't die (Would give all of them one scroll if you struggle later as that's gonna be +10 levels)
-- Don't level up the blue guys at all and do platinum tiger festival 1&2 last 👍
-- Lines don't really matter just make sure chicken man is somewhere at the back
+- Yappi-kun, koji, Sujiya are all there so most of your team doesn't die
+- Give 1 scroll to blue guys you haven't used at some point and do platinum tiger festival 1&2 last 👍
+- Lines don't really matter just make sure chicken man is somewhere at the back (not sure if they matter tbh ?)
 - When your whole team gets wiped out, quit and go to VIP louge to progress sponsor matchups, go to fighters louge and buy the champagne (1 mil if you don't have bonding maxed out, otherwise the cheapest)
 - There is also an option to fight the clown instead at some point to refresh the bad mood
 - At some point when visiting the fighter louge buy 2 scrolls and give them to your blue guys you haven't used (hammer guys), as there is no way you gonna get past plat 2 with level 1s
