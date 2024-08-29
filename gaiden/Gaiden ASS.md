@@ -4,7 +4,7 @@
 - Golden ball if boat appears after the fight at the footwalk (pay attention to the boat golden ball for the rest of your run if you don't get it here)
 - After club visit pick every single request you have available and progress any% as normal
 - Pick the extra platinum plate locker key on sotenbori st. (can pickup the tauriner maximum as well)
-- Normal any% until locker keys, pick locker keys, equip binding, level up and go to parking lot (use cone?), then footpath fight (use ex heat), then hornet
+- After sotenbori st. taxi locker keys, pick locker keys, equip binding, level up and go to parking lot (use cone?), taxi to Shofukucho, finish obatarian, red fight on footwalk, hornet
 - after cigarete taxi to East Bunzaemon fight red guys -> ebisu pawn (buy golden ball)
 - red fight before going to akame
 - go to akame
@@ -50,30 +50,26 @@
 ### Chapter 4
 - Before taxiing to W Sotenbori and going to grand talk to akame and have a bond drink
 - Pick the Finish the white gang leader substory
-- Progress Any% as normal until the end of Castle crashers fight
+- After Grand talk to Wrestler guy, white gang, then taxi to castle
 - After castle crashers go to gambling hall and talk to mr. try and hit me, then go to helipad, clown fight, then go to coliseum reception
 - Coliseum 2:
     - Do 3 hell rumble gold matches as kiryu
     - Go to helipad & to sotenbori
-    - On the way to golf centre do all the substories, after the fight progress Need advice
+    - Pick black gang, taxi to Bishamon bridge, do black gang -> wrestler on footpath -> progress story -> needs advice -> talk to shishido
 
 ### Finale
 - Substories:
-    - When you have the quest to go back to daidoji hideout talk to akame and pick black swallows gang
+    - After you get quest to go to the Daidoji hideout (check if you can buy level max akame shop and dragon god amulet)
     - Taxi to Bishamon bridge
-    - Black swallows start
     - End of the destruction
     - A simple heavy lifting job
     - Needs advice
     - Wrestler
-    - Taxi to Bishamon bridge
-    - Black gang
-    - Save the pro wrestler
     - Taxi to East Bunzaemon
     - Cats
     - Taxi to Ashibata park black gang substory, save the pro wrestler
     - Taxi to Iwao bridge girl and save the pro wrestler
-    - After (or before) the fight with wrestler pick up request from the guy on the bench on the footpath (Solve the mystery note - it's request to find a golden ball)
+    - After the fight with wrestler pick up request from the guy on the bench on the footpath (Solve the mystery note - it's request to find a golden ball)
     - Taxi to bishamon bridge
     - Substories on the way to S Shofukucho
     - !Pick up golden ball opposite to golden ball you talk to hostess substory here!
