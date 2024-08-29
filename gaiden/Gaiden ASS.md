@@ -103,7 +103,7 @@
 - Starting platinum 3 you want to start using the machine gun guy
 - Yappi-kun, koji, Sujiya are all there so most of your team doesn't die
 - Give 1 scroll to blue guys you haven't used at some point and do platinum tiger festival 1&2 last 👍
-- Lines don't really matter just make sure chicken man is somewhere at the back (not sure if they matter tbh ?)
+- Lines don't really matter just make sure chicken man is somewhere at the back (not sure if they matter tbh ?) *THEY DO MATTER PLEASE PUT HIGASHI IN FRONT IF YOU WANT TO FINISH THE RUN* (also Sugiuchi has one of the shittiest defenses so put him back)
 - When your whole team gets wiped out, quit and go to VIP louge to progress sponsor matchups, go to fighters louge and buy the champagne (1 mil if you don't have bonding maxed out, otherwise the cheapest)
 - There is also an option to fight the clown instead at some point to refresh the bad mood
 - At some point when visiting the fighter louge buy 2 scrolls and give them to your blue guys you haven't used (hammer guys), as there is no way you gonna get past plat 2 with level 1s
